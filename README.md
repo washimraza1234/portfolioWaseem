@@ -2,4 +2,4 @@
 
 My Portfolio
 
-Link: https://waseemraza.netlify.app/
+Link: https://washimraza1234.github.io/portfolioWaseem/
