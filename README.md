@@ -2,4 +2,4 @@
 
 My Portfolio
 
-Link: https://washimraza1234.github.io/portfolioWaseem/
+Link: https://washimraza1234.github.io/
